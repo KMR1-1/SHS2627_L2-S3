@@ -1,4 +1,21 @@
 public class TestAnimaux {
+    // Je suis un commentaire
+    /*
+    sslflsd
+    sfkf
+    ds
+
+    aw
+
+    qe
+    f
+    d
+     */
+
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args){
         Chien monChien = new Chien();
         monChien.nom = "Scoubidou";
@@ -17,11 +34,13 @@ public class TestAnimaux {
 
         monChien.aboie();
         monChat.miaule();
+        //TODO hfeefw
     }
 
     public void affiche(){
         System.out.println("test");
         //monChien.aboie();
+        //FIXME
     }
 
 }

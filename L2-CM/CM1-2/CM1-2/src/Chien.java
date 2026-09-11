@@ -6,5 +6,6 @@ public class Chien extends Animal{
 
     public void aboie(){
         System.out.println("Ouaf ! Ouaf ! Ouaf !");
+        //FIXME mon chien a appris à faire des trémolos, donc il faut adapter!
     }
 }

@@ -10,6 +10,7 @@ public class Chanson {
     }
 
     public int getDuree() {
+        System.out.println(duree);
         return duree;
     }
 
